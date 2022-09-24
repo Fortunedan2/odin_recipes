@@ -1,3 +1,3 @@
 # odin_recipes
 Recipes project
-I will be creatin a recipe website using HTML
+I will be creating a miniature recipe website using HTML
